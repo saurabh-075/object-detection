@@ -1,4 +1,4 @@
-from ultralytics import YOLO
+venvfrom ultralytics import YOLO # type: ignore
 import numpy
 
 # load a pretrained YOLOv8n model
